@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1ace5b1ab3fc748942b1f01ca8e4b23",
+    "revision": "c307f18e775fef0554d1ef3a4e1f9709",
     "url": "/chatboot.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chatboot.github.io/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "a40156713819891f14d1",
+    "revision": "ffe8491c6d80c59184e3",
     "url": "/chatboot.github.io/static/css/main.b2038b64.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chatboot.github.io/static/js/2.2a485c0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a40156713819891f14d1",
-    "url": "/chatboot.github.io/static/js/main.6e8c7846.chunk.js"
+    "revision": "ffe8491c6d80c59184e3",
+    "url": "/chatboot.github.io/static/js/main.882310bf.chunk.js"
   },
   {
     "revision": "a4757d3f04e95221ab3c",
